@@ -3,7 +3,7 @@
 This is a solution to the [Challenge Name](https://www.frontendmentor.io/challenges/[challenge-slug]) challenge on Frontend Mentor.
 
 ## 🔗 Live Site URL
-[View live site here](https://your-username.github.io/frontend-mentor-landing-page/)
+[View live site here](https://Davirisky.github.io/frontend-mentor-landing-page/)
 
 ## 📸 Screenshot
 ![Screenshot](./assets/images/screenshot.jpg)
@@ -28,8 +28,8 @@ This is a solution to the [Challenge Name](https://www.frontendmentor.io/challen
 
 ## 👤 Author
 
-- Frontend Mentor – [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub – [@yourusername](https://github.com/yourusername)
+- Frontend Mentor – [@Davirisky](https://www.frontendmentor.io/profile/Davirisky)
+- GitHub – [@yourusername](https://github.com/Davirisky)
 
 ## Acknowledgments
 Thanks to Frontend Mentor for this challenge!
