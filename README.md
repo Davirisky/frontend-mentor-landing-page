@@ -3,7 +3,7 @@
 This is a solution to the [Challenge Name](https://www.frontendmentor.io/challenges/[challenge-slug]) challenge on Frontend Mentor.
 
 ## 🔗 Live Site URL  
-(https://@Davirisky.git.io/frontend-mentor-landing-page.git.io/)
+(https://Davirisky.git.io/frontend-mentor-landing-page.git.io/)
 
 ## 📸 Screenshot
 ![Screenshot](./assets/images/screenshot.jpg)
